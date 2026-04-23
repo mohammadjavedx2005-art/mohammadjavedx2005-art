@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I’m Mohammad Javed 👋
 Frontend Developer 💻 | Electrical Engineering ⚡ (Minor in CSE)<br>Skilled in building responsive and modern web interfaces 🎨<br>Interested in combining software with real-world hardware solutions 🔌<br>Continuous learner 📚 with a passion for technology and innovation 🚀<br>
 
 
@@ -19,6 +20,9 @@ Frontend Developer 💻 | Electrical Engineering ⚡ (Minor in CSE)<br>Skilled i
 [![](https://komarev.com/ghpvc/?username=mohammadjavedx2005-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
