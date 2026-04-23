@@ -19,3 +19,6 @@ Frontend Developer 💻 | Electrical Engineering ⚡ (Minor in CSE)<br>Skilled i
 [![](https://komarev.com/ghpvc/?username=mohammadjavedx2005-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
